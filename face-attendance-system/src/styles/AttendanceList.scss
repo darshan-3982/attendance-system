@@ -1,0 +1,35 @@
+.attendance-list {
+    h3 {
+      font-size: 1.8rem;
+      color: #2c3e50;
+      margin-bottom: 1rem;
+    }
+  
+    table {
+      th {
+        text-align: center;
+        font-weight: bold;
+      }
+  
+      td {
+        text-align: center;
+      }
+  
+      thead {
+        background-color: #f1f8ff;
+      }
+    }
+  
+    .btn {
+      padding: 10px 20px;
+      font-size: 1rem;
+      background-color: #3498db;
+      border: none;
+      border-radius: 5px;
+  
+      &:hover {
+        background-color: #2980b9;
+      }
+    }
+  }
+  
